@@ -1,0 +1,24 @@
+body{
+	font-family: 'Ubuntu', sans-serif;
+	background: #255959;
+}
+ul{
+	color: white;
+	list-style-type: none;
+}
+ul li {
+	list-style-position: outside;
+	margin-left: 5px;
+}
+.delete {
+	margin: 10px;
+}
+#textBox{
+	height: 30px;
+	width: 200px;
+}
+#submitButton {
+	height: 100px;
+	width: 100px;
+	padding: 20px 0 0 0;
+}
